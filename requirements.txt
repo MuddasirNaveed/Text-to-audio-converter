@@ -1,0 +1,4 @@
+TTS.api
+google.cloud
+gtts
+pyttsx3
